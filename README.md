@@ -1,4 +1,7 @@
 ### Hi there 👋
+Currently learning the basics of the wonderful world of programming :^)
+
+Simple programs, just for fun and who knows, maybe something even bigger ;) 
 
 <!--
 **alexgrpds/alexgrpds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
